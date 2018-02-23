@@ -22,7 +22,7 @@ function arreglos(){
     var objeto = {0:"abc"};
     array.push(texto);
     array.push(objeto);
-    
+
     array.splice(0,1)
 
 
