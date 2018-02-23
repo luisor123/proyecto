@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /.idea
 .project
 .classpath
@@ -5,3 +6,6 @@
 *.launch
 .settings/
 *.sublime-workspace
+=======
+
+>>>>>>> f053f6c56a2c0e7394296f6602ecc706761b9cb8
